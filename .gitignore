@@ -128,3 +128,18 @@ gen-external-apklibs
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/intellij,android,java
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+*.egg
