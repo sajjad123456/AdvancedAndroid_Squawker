@@ -7,6 +7,16 @@ build/
 /captures
 google-services.json
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
 
 # Created by https://www.gitignore.io/api/intellij,android,java
 
